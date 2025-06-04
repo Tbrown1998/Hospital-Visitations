@@ -62,6 +62,9 @@ The dashboard aims to answer the following business questions and achieve the ob
 
 ## 📽️ Hospital Visitations Dashboard Walkthrough
 
+[![Watch the video](https://img.youtube.com/vi/feXTmJcVtrw/0.jpg)](https://youtu.be/feXTmJcVtrw)
+
+
 [▶️ Watch the Video Walkthrough](https://youtu.be/feXTmJcVtrw)
 
 👆 Video Walkthrough showcasing guide through the project, also showing the importance of tooltips and how it can provide deeper insights into projects.
