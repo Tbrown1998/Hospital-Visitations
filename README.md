@@ -57,6 +57,15 @@ The dashboard aims to answer the following business questions and achieve the ob
 ✔ Designed a date table for time-based analysis in Power BI (e.g., for trend analysis).
 ✔ Established relationships between rentals, vehicles, and customers for segmentation and performance analysis.
 
+
+---
+
+## 📽️ Hospital Visitations Dashboard Walkthrough
+
+[▶️ Watch the Video Walkthrough](https://youtu.be/feXTmJcVtrw)
+
+👆 Video Walkthrough showcasing guide through the project, also showing the importance of tooltips and how it can provide deeper insights into projects.
+
 ---
 
 
